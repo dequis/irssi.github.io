@@ -1,0 +1,3 @@
+[submodule "irssi-files"]
+	path = files
+	url = https://github.com/dequis/irssi-files
