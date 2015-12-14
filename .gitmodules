@@ -1,3 +1,7 @@
 [submodule "irssi-files"]
 	path = files
 	url = https://github.com/dequis/irssi-files
+
+[submodule "themes"]
+	path = themes
+	url = https://github.com/irssi-import/themes
