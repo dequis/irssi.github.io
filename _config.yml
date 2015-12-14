@@ -3,7 +3,6 @@ exclude: ["README.markdown"]
 lsi: false
 safe: true
 
-baseurl: ""
 #url: "//irssi-import.github.io"
 
 title: Irssi
